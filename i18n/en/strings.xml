@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="app.title">訂訂店商戶掃瞄器</string>
+	<string name="btn.retry">重試</string>
+	<string name="btn.cancel">取消</string>
+	<string name="btn.confirm">確定</string>
+	<string name="login.title">訂訂店商戶登入</string>
+	<string name="login.title">訂訂店商戶登入</string>
+	<string name="qrscan.start">啟動掃瞄器</string>
+	<string name="qrscan.verified">成功刻對及正確，資料已更新在服務器</string>
+	<string name="qrscan.confirm.title">確認訂單?</string>
+	<string name="qrscan.confirm.message">訂單一經確認，不能重新確認，是否繼續?</string>
+	<string name="qrscan.hint">手動輸入確認號碼</string>
+	<string name="offlined.title">沒有網絡連線</string>
+	<string name="offlined.content">訂訂店商戶掃瞄器並不能在沒有網絡連線下工作，請確定已連線及重新再試</string>
+
+</resources>

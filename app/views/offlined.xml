@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container" modal="true">
+		<View layout="vertical">
+			<Label id="lblTextTitle" class="title" text="L('offlined.title')"></Label>
+			<Label id="lblTextContent" class="content" text="L('offlined.content')"></Label>
+			<Button id="btnOk" title="L('btn.retry')" onClick="retry"></Button>
+		</View>
+	</Window>
+</Alloy>

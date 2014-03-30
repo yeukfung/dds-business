@@ -1,0 +1,15 @@
+{
+	"global": {},
+	"env:development": {
+		"host": "http://jessnruss.dyndns.org:9000/"
+	},
+	"env:test": {
+		"host": "http://jessnruss.dyndns.org:9000/"
+	},
+	"env:production": {},
+	"os:android": {},
+	"os:blackberry": {},
+	"os:ios": {},
+	"os:mobileweb": {},
+	"dependencies": {}
+}

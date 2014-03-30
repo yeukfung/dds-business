@@ -1,0 +1,7 @@
+<Alloy>
+	<TabGroup id="tgMain" navBarHidden="true">
+		<Tab id="tab" title="掃瞄器" >
+			<Require src="qrscan" />
+		</Tab>
+	</TabGroup>
+</Alloy>

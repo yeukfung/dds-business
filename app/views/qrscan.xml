@@ -1,0 +1,4 @@
+<Alloy>
+	<Window class="container" tabBarHidden="true" title="L('app.title')">
+	</Window>
+</Alloy>
